@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ae92c23-4dad-4c95-9fbb-88aa80e1e15c" name="Changes" comment="Test">
-      <change afterPath="$PROJECT_DIR$/booking_ece/bin/manipulation_client/zkndk" afterDir="false" />
-    </list>
+    <list default="true" id="3ae92c23-4dad-4c95-9fbb-88aa80e1e15c" name="Changes" comment="Test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742977682908</updated>
-      <workItem from="1742977684070" duration="2135000" />
+      <workItem from="1742977684070" duration="2515000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <option name="closed" value="true" />
@@ -94,7 +92,31 @@
       <option name="project" value="LOCAL" />
       <updated>1742979691923</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Test">
+      <option name="closed" value="true" />
+      <created>1742979863454</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742979863454</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Test">
+      <option name="closed" value="true" />
+      <created>1742979891123</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1742979891123</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Test">
+      <option name="closed" value="true" />
+      <created>1742979995073</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1742979995073</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
